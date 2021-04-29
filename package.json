@@ -22,14 +22,16 @@
     "vue-template-compiler": "^2.6.10"
   },
   "dependencies": {
-    "axios": "^0.19.0",
-    "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
-    "lazysizes": "^5.2.0",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "lazysizes": "^5.3.2",
+    "loadsh": "0.0.4",
     "lodash": "^4.17.15",
-    "noty": "^3.2.0-beta",
+    "noty": "^3.2.0-beta-deprecated",
     "popper.js": "^1.16.0",
+    "propper": "^1.0.4",
     "slick-carousel": "^1.8.1",
-    "vue": "^2.6.10"
+    "vue": "^2.6.12"
   }
 }
